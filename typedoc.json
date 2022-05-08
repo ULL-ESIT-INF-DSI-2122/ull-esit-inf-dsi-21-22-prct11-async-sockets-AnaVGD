@@ -11,5 +11,5 @@
     "./src/clientServerNotes/note.ts",
     "./src/clientServerNotes/noteSchema.ts"
   ],
-  "out": "./docs"
+  "out": "./typedoc"
 }
