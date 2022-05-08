@@ -1,6 +1,15 @@
 {
   "entryPoints": [
-    "./src/basicFunctions.ts"
+    "./src/clientServerNotes/client.ts",
+    "./src/clientServerNotes/server.ts",
+    "./src/clientServerNotes/clientRequest.ts",
+    "./src/clientServerNotes/serverRequest.ts",
+    "./src/clientServerNotes/EventEmitterClient.ts",
+    "./src/clientServerNotes/EventEmitterServer.ts",
+    "./src/clientServerNotes/management.ts",
+    "./src/clientServerNotes/note-app.ts",
+    "./src/clientServerNotes/note.ts",
+    "./src/clientServerNotes/noteSchema.ts"
   ],
   "out": "./docs"
 }
